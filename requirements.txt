@@ -1,0 +1,14 @@
+numpy
+scikit-learn
+Pillow
+torch
+matplotlib
+datasets
+gdown
+tensor-sensor
+torchinfo
+sympy
+einops
+graphviz
+tokenizers
+pandas
